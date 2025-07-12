@@ -37,7 +37,7 @@ graph TD;
 ## Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/RAG-Insurance-Search.git
+   git clone https://github.com/ravikirankrishnaprasad/SemanticSpotterGenAI.git
    cd RAG-Insurance-Search
    ```
 2. Install required dependencies:
